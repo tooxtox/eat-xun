@@ -1,5 +1,5 @@
 # EatKanoRemade
-小游戏：吃掉小鹿乃（重制版）
+小游戏：吃掉逊哥（重制版）
 # 视频&试玩
 [在 Github Pages 中试玩](https://bugteas.github.io/EatKanoRemade/index.html)|[视频 Bilibili](https://www.bilibili.com/video/av80433022)
 ## 介绍
